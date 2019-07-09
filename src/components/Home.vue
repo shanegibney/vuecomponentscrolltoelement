@@ -7,7 +7,7 @@
         <b-navbar-nav align="right">
           <b-nav-item class="mr-md-5" to="/"><strong>Home</strong></b-nav-item>
           <b-nav-item class="mr-md-5" to="/about"><strong>About</strong></b-nav-item>
-          <b-nav-item class="mr-md-5" to="/info#section8"><strong>Info</strong></b-nav-item>
+          <b-nav-item class="mr-md-5" to="/info#section3"><strong>Info</strong></b-nav-item>
         </b-navbar-nav>
       </b-navbar-nav>
     </b-collapse>
