@@ -1,5 +1,7 @@
 # vuecomponentscrolltoelement
 
+gh-pages [demo](https://shanegibney.github.io/vuecomponentscrolltoelement/)
+
 ## Project setup
 ```
 npm install
